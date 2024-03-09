@@ -1,4 +1,4 @@
-import { ethers } from "ethers";
+import {ethers} from "ethers";
 import Abi from "./abi.json";
 
 export const getProposalsContract = (providerOrSigner) =>
